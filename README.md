@@ -25,7 +25,7 @@ The Smart Study Generator Agent is an Agentic AI-powered web application that tr
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/smart-study-generator.git
+git clone https://github.com/Manasa227/smart-study-generator.git
 cd smart-study-generator
 python -m venv venv
 venv\Scripts\activate
